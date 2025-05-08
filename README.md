@@ -29,9 +29,6 @@ Este projeto é uma aplicação gráfica de **To-do List** (lista de tarefas) de
 | Texto principal       | `#1A1A1A` | Títulos e tarefas             |
 | Texto secundário      | `#4F5D75` | Campos de entrada             |
 | Ação principal        | `#3A86FF` | Botões                        |
-| Sucesso/concluído     | `#06D6A0` | Realce                        |
-| Alerta/erro           | `#EF476F` | Mensagens                     |
-| Hover/destaque        | `#FFD166` | Efeitos visuais (futuros)     |
 
 ---
 
