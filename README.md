@@ -32,7 +32,6 @@ Este projeto é uma aplicação gráfica de **To-do List** (lista de tarefas) de
 | Sucesso/concluído     | `#06D6A0` | Realce                        |
 | Alerta/erro           | `#EF476F` | Mensagens                     |
 | Hover/destaque        | `#FFD166` | Efeitos visuais (futuros)     |
-| Modo escuro (fundo)   | `#1E1E2E` | Reservado para expansões      |
 
 ---
 
@@ -40,4 +39,4 @@ Este projeto é uma aplicação gráfica de **To-do List** (lista de tarefas) de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/marcosAugustoo/to-do-list.git
